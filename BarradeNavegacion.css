@@ -1,0 +1,22 @@
+/*CSS PERSONALIZADO PARA LA BARRA DE NAVEGACION*/
+
+.navbar {
+    background-color: rgb(224,30,68);
+    border-radius: 0;
+    border: none;
+
+}
+
+.narbar-brand{
+    color: white;
+    font-weight: bold;
+
+}
+
+.navbar-nav .navbar-link{
+    color: white;
+}
+
+.navbar-nav .navbar-link:hover{
+    color: white;
+}
